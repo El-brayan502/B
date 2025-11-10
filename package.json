@@ -79,7 +79,7 @@
   },
   "peerDependencies": {
     "audio-decode": "^3.0.0",
-    "jimp": "^0.22.12",
+    "jimp": "^0.16.1",
     "link-preview-js": "^3.1.1",
     "qrcode-terminal": "^0.13.2",
     "sharp": "^0.34.3"
